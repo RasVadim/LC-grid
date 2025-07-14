@@ -45,7 +45,9 @@ function App() {
 | `lifeMode`      | `TLifeMode`                 | -         | Life mode (months, seasons, years) |
 | `setLifeMode`   | `(mode: TLifeMode) => void` | -         | Callback to set life mode          |
 
-## DEVELOPMENT
+
+
+## Development
 
 ### Clone repo
 ### Install dependencies
