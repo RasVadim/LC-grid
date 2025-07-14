@@ -5,8 +5,8 @@ A React component for displaying a life calendar (weeks grid) using the Canvas A
 ## Features
 
 - Display 52 weeks per year as a grid
-- Configurable size and colors
-- Interactive (click, hover)
+- Configurable size
+- Interactive (click)
 - Custom cell rendering support
 - TypeScript support
 - Storybook for development and documentation
