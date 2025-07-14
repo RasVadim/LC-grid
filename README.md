@@ -50,6 +50,11 @@ function App() {
 ## Development
 
 ### Clone repo
+
+```bash
+git clone git@github.com:RasVadim/LC-grid.git 
+```
+
 ### Install dependencies
 
 ```bash
