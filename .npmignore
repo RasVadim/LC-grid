@@ -1,0 +1,23 @@
+# Source files
+src/
+.storybook/
+.github/
+
+# Build artifacts
+storybook-static/
+node_modules/
+
+# Development files
+.git/
+.gitignore
+README.md
+LICENSE
+
+# IDE files
+.vscode/
+.idea/
+.cursor/
+
+# OS files
+.DS_Store
+Thumbs.db 

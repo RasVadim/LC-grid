@@ -1,0 +1,1 @@
+export { mainRender } from './mainRender';
