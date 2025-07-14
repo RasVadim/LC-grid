@@ -69,13 +69,13 @@ yarn storybook
 
 Storybook will be available at http://localhost:6006
 
-### Build
+## Build
 
 ```bash
 yarn build
 ```
 
-### Publish
+## Publish
 
 ```bash
 yarn publish
